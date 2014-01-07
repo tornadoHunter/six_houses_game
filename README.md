@@ -1,7 +1,7 @@
 six_houses_game
 ===============
 
-This is a little game for me to understand the basic synax and principles of python. 
+This is a little game for me to understand the basic syntax and principles of python. 
 
 An idea for a game in python to play around with its string processing capabilities 
 and associative psychology. 
